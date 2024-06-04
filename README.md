@@ -38,7 +38,4 @@ $ npm start
 - Vanilla CSS integrated with BoostMat UI Component Library
 - Razorpay payment gateway
 
-## **Demo -**
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/58260342/161412291-aec62d98-98bd-4902-8109-1069406702b4.gif)
-
 
